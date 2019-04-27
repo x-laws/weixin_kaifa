@@ -11,6 +11,11 @@ public class WeixinApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
 	}
 
+	public static void main(String [] args) {
+		System.out.println("≤‚ ‘");
+	}
 }
+
